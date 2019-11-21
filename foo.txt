@@ -4,8 +4,10 @@
 4
 5
 6
+Bob's first edit
 bar
 7
 8
 9
+Bob's second edit
 10
